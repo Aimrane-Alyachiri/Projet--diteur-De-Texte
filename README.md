@@ -1,2 +1,2 @@
 # Projet--diteur-De-Texte
-Le projet Éditeur-De-Texte vise à développer une application permettant de gérer un texte ligne par ligne avec insertion, suppression.
+Le projet Éditeur-De-Texte a pour objectif de créer une application permettant à l’utilisateur de manipuler dynamiquement un texte ligne par ligne. Elle offre des fonctionnalités essentielles telles que l’insertion et la suppression de lignes à des positions précises, la recherche et le remplacement de mots dans l’ensemble du texte, ainsi qu’un système d’annulation pour revenir sur les dernières modifications.
