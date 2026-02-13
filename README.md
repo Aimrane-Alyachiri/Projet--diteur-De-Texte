@@ -58,6 +58,15 @@ A simple text editor built in **C** that allows dynamic text management with adv
 
 ---
 
+## 🎥 Demo Video
+Watch a quick demonstration of the text editor in action:
+
+[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) ⏯️
+
+> Click the thumbnail to view the video. ⏯️
+
+---
+
 ## ▶ How to Run the Project
 1. Clone the repository:  
 ```bash
