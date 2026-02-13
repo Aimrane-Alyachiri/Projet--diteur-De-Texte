@@ -65,5 +65,5 @@ git clone <your-repo-link>
 
 ---
 
-## ▶🎥 Video
+## 🎥 Video
 A demo video of the text editor can be added here
