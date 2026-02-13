@@ -65,5 +65,10 @@ git clone <your-repo-link>
 
 ---
 
-## 🎥 Video
-A demo video of the text editor can be added here
+## 🚀 How It Can Be Improved
+- Add support for **copy/paste** functionality  
+- Highlight multiple occurrences with colors in console  
+- Save/load multiple files  
+- Implement a **GUI** interface with libraries like SDL2 (optional)
+
+---
