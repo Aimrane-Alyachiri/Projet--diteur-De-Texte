@@ -5,9 +5,9 @@ A simple text editor built in **C** that allows dynamic text management with adv
 ---
 
 ## 🛠 Technologies
-- 🖥 C (Core logic and text manipulation)
-- 📂 Standard C libraries (`stdio.h`, `stdlib.h`, `string.h`)
-- 💾 Data structures: Linked lists, Stack, Queue
+- 🖥 **C** (Core logic and text manipulation)  
+- 📂 Standard C libraries (`stdio.h`, `stdlib.h`, `string.h`)  
+- 💾 Data structures: Linked lists, Stack, Queue  
 
 ---
 
@@ -17,7 +17,7 @@ A simple text editor built in **C** that allows dynamic text management with adv
 - Search for a word in the text (^S)  
 - Replace a word with another (^R)  
 - Undo last action (^Z)  
-- Quit the editor safely (^X)
+- Quit the editor safely (^X)  
 
 ---
 
@@ -46,7 +46,7 @@ A simple text editor built in **C** that allows dynamic text management with adv
 - Dynamic memory management (`malloc`, `free`, `strdup`)  
 - Implementing **Undo** with stacks  
 - Searching and replacing words efficiently in dynamic text  
-- Modular coding for maintainable and interactive applications
+- Modular coding for maintainable and interactive applications  
 
 ---
 
@@ -54,7 +54,7 @@ A simple text editor built in **C** that allows dynamic text management with adv
 - Add support for **copy/paste** functionality  
 - Highlight multiple occurrences with colors in console  
 - Save/load multiple files  
-- Implement a **GUI** interface with libraries like SDL2 (optional)
+- Implement a **GUI** interface with libraries like SDL2 (optional)  
 
 ---
 
@@ -62,14 +62,3 @@ A simple text editor built in **C** that allows dynamic text management with adv
 1. Clone the repository:  
 ```bash
 git clone <your-repo-link>
-
----
-
-## 🎥 Demo Video
-Watch a quick demonstration of the text editor in action:
-
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) ⏯️
-
-> Click the thumbnail to view the video. ⏯️
-
-
