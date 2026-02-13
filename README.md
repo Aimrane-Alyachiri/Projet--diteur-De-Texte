@@ -62,3 +62,8 @@ A simple text editor built in **C** that allows dynamic text management with adv
 1. Clone the repository:  
 ```bash
 git clone <your-repo-link>
+
+---
+
+## ▶🎥 Video
+A demo video of the text editor can be added here
